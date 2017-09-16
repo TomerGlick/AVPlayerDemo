@@ -1,2 +1,4 @@
 # AVPlayerDemo
-HTTP Streaming demp player  
+HTTP Streaming demo player  
+
+Player is working ok but seek has issues trying to figure now
